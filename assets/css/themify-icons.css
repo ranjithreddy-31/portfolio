@@ -437,12 +437,6 @@
 .ti-music-alt:before {
 	content: "\e689";
 }
-.ti-mouse:before {
-	content: "\e68a";
-}
-.ti-mouse-alt:before {
-	content: "\e68b";
-}
 .ti-money:before {
 	content: "\e68c";
 }
